@@ -29,3 +29,22 @@ G.H.O.S.T. currently operates **11 integrated forensic modules**:
 ```bash
 git clone [https://github.com/sarthakraut003/GHOST-OSINT-Framework.git](https://github.com/sarthakraut003/GHOST-OSINT-Framework.git)
 cd GHOST-OSINT-Framework
+```
+**2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+3. Configure API Keys:
+Create a .env file in the root directory based on the .env.example template and add your API keys:
+```bash
+OTX_KEY=your_key_here
+VT_KEY=your_key_here
+BREACH_KEY=your_key_here
+GITHUB_TOKEN=your_token_here
+```
+4. Deploy the Framework:
+```bash
+streamlit run app.py
+```
+⚖️ Disclaimer
+AUTHORIZED USE ONLY. This tool is provided for educational and research purposes only. Users are strictly responsible for complying with local, state, and federal laws. Unauthorized access, probing, or reconnaissance against systems you do not own or have explicit permission to test is illegal. The developer assumes no liability and is not responsible for any misuse or damage caused by this program.
