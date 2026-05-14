@@ -1,0 +1,6 @@
+streamlit
+httpx
+dnspython
+phonenumbers
+Pillow
+python-dotenv
