@@ -27,5 +27,5 @@ G.H.O.S.T. currently operates **11 integrated forensic modules**:
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/YourUsername/GHOST-OSINT-Framework.git](https://github.com/YourUsername/GHOST-OSINT-Framework.git)
+git clone [https://github.com/sarthakraut003/GHOST-OSINT-Framework.git](https://github.com/sarthakraut003/GHOST-OSINT-Framework.git)
 cd GHOST-OSINT-Framework
