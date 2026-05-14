@@ -7,6 +7,8 @@
 
 An advanced, asynchronous Open Source Intelligence (OSINT) and Digital Forensics framework designed for security researchers and SOC analysts. Built with Python and Streamlit, G.H.O.S.T. centralizes disparate intelligence feeds into a single, high-performance tactical dashboard.
 
+## _WE ARE CURRENTLY CELEBRATING THE  FALLOUT THEME_  
+
 ## 🚀 Core Capabilities
 
 G.H.O.S.T. currently operates **11 integrated forensic modules**:
